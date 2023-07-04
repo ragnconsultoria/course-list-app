@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Course List App</string>
+    <string name="btn_clear">Limpar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_finish">Finalizar</string>
+    <string name="hint_first_name">Nome</string>
+    <string name="hint_last_name">Sobrenome</string>
+    <string name="hint_course_name">Nome do Curso</string>
+    <string name="hint_phone_number">Telefone</string>
 </resources>
