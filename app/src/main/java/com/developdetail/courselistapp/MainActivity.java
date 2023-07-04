@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initializeFields() {
-        toolbar = findViewById(R.id.abl_main_activity);
+        toolbar = findViewById(R.id.tb_main_activity);
         etInputFirstName = findViewById(R.id.et_input_first_name_main_activity);
         etInputLastName = findViewById(R.id.et_input_last_name_main_activity);
         etInputCourseName = findViewById(R.id.et_input_course_name_main_activity);

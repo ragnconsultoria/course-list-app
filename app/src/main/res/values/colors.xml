@@ -8,4 +8,8 @@
     <color name="colorSecondary">#6A1B9A</color>
     <color name="colorSecondaryVariant">#4527A0</color>
     <color name="colorAccent">#AD1457</color>
+
+    <color name="colorBackground">#E6E6E6</color>
+    <color name="colorHint">#616161</color>
+    <color name="colorStroke">#515151</color>
 </resources>

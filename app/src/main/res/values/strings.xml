@@ -7,4 +7,6 @@
     <string name="hint_last_name">Sobrenome</string>
     <string name="hint_course_name">Nome do Curso</string>
     <string name="hint_phone_number">Telefone</string>
+    <string name="register_here">Faça seu Cadastro!</string>
+    <string name="fill_in_the_form_below">Preencha o formulário abaixo e garanta sua vaga VIP!</string>
 </resources>
