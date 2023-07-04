@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import com.developdetail.courselistapp.R;
+import com.developdetail.courselistapp.models.Subscribed;
 import com.google.android.material.button.MaterialButton;
 
 public class MainActivity extends AppCompatActivity {
@@ -14,12 +15,15 @@ public class MainActivity extends AppCompatActivity {
     EditText etInputFirstName, etInputLastName, etInputCourseName, etInputPhoneNumber;
     MaterialButton btnClear, btnSave, btnFinish;
 
+    Subscribed subscribed;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
         initializeFields();
+
         setSupportActionBar(toolbar);
         toolbar.setTitle(getResources().getString(R.string.app_name));
     }
@@ -33,5 +37,18 @@ public class MainActivity extends AppCompatActivity {
         btnClear = findViewById(R.id.btn_clear_main_activity);
         btnSave = findViewById(R.id.btn_save_main_activity);
         btnFinish = findViewById(R.id.btn_finish_main_activity);
+    }
+
+    private void saveForm() {
+        String firstName = etInputFirstName.getText().toString();
+        String lastName = etInputLastName.getText().toString();
+        String courseName = etInputCourseName.getText().toString();
+        String phoneNumber = etInputPhoneNumber.getText().toString();
+
+        subscribed = new Subscribed();
+        subscribed.setFirstName(firstName);
+        subscribed.setLastName(lastName);
+        subscribed.setCourseName(courseName);
+        subscribed.setPhoneNumber(phoneNumber);
     }
 }
