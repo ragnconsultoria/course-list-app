@@ -1,1 +1,1 @@
-# course-list-app
+# Course List App
