@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "540956332111",
+    "firebase_url": "https://my-hair-stylist-default-rtdb.firebaseio.com",
+    "project_id": "my-hair-stylist",
+    "storage_bucket": "my-hair-stylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540956332111:android:c0ad179cf026e4f6701a3a",
+        "android_client_info": {
+          "package_name": "com.developdetail.courselistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDllsPy-aHmzVc0hpAoZzinZmaMumfHtek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540956332111:android:4700d1253b7f444f701a3a",
+        "android_client_info": {
+          "package_name": "com.developdetail.myhairstylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDllsPy-aHmzVc0hpAoZzinZmaMumfHtek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540956332111:android:346ad5c65f6a8816701a3a",
+        "android_client_info": {
+          "package_name": "com.developdetail.myhairstylistcontrolpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDllsPy-aHmzVc0hpAoZzinZmaMumfHtek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540956332111-4gqtdj5se494anc0gl76hjqsd7ndo4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
