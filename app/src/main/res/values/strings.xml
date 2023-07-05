@@ -9,4 +9,14 @@
     <string name="hint_phone_number">Telefone</string>
     <string name="register_here">Faça seu Cadastro!</string>
     <string name="fill_in_the_form_below">Preencha o formulário abaixo e garanta sua vaga VIP!</string>
+    <string name="form_send_successfully">Formulário enviado com sucesso!</string>
+    <string name="all_fields_must_be_filled">Todos os campos devem ser preencidos!</string>
+    <string name="input_first_name">Digite seu primeiro nome!</string>
+    <string name="input_last_name">Digite seu sobrenome!</string>
+    <string name="input_course_name">Digite o nome do curso!</string>
+    <string name="input_phone_number_name">Digite o seu telefone!</string>
+    <string name="successfull_registration">Incrição realizada com sucesso!</string>
+    <string name="please_wait">Por favor aguarde…</string>
+    <string name="btn_send">Enviar</string>
+    <string name="description_check">Check</string>
 </resources>
